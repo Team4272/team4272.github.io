@@ -1,0 +1,8 @@
+drwxr-xr-x    3 a7179163   a7179163         4096 Jul 30 16:13 .
+drwxr-xr-x   11 a7179163   a7179163         4096 Jul 30 16:13 ..
+-rw-r--r--    1 a7179163   a7179163        12655 Jul 30 16:12 handlers.js
+-rw-r--r--    1 a7179163   a7179163         8867 Jul 30 16:12 handlers.min.js
+-rw-r--r--    1 a7179163   a7179163         1540 Jul 30 16:12 license.txt
+drwxr-xr-x    2 a7179163   a7179163         4096 Jul 30 16:13 plugins
+-rw-r--r--    1 a7179163   a7179163        37689 Jul 30 16:13 swfupload.js
+-rw-r--r--    1 a7179163   a7179163        13133 Jul 30 16:13 swfupload.swf

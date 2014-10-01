@@ -1,0 +1,10 @@
+drwxr-xr-x    8 a7179163   a7179163         4096 Jul 30 16:11 .
+drwxr-xr-x    9 a7179163   a7179163         4096 Jul 30 16:10 ..
+-rw-r--r--    1 a7179163   a7179163        26748 Jul 30 16:10 basic.php
+drwxr-xr-x    3 a7179163   a7179163         4096 Jul 30 16:11 compat
+drwxr-xr-x    4 a7179163   a7179163         4096 Jul 30 16:11 img
+drwxr-xr-x    2 a7179163   a7179163         4096 Jul 30 16:11 js
+drwxr-xr-x    2 a7179163   a7179163         4096 Jul 30 16:11 less
+drwxr-xr-x    2 a7179163   a7179163         4096 Jul 30 16:11 lib
+drwxr-xr-x    8 a7179163   a7179163         4096 Jul 30 16:11 widgets
+-rw-r--r--    1 a7179163   a7179163        21879 Jul 30 16:10 widgets.php

@@ -1,0 +1,6 @@
+drwxr-xr-x    2 a7179163   a7179163         4096 Jul 30 16:13 .
+drwxr-xr-x    4 a7179163   a7179163         4096 Jul 30 16:13 ..
+-rw-r--r--    1 a7179163   a7179163        15840 Jul 30 16:13 native.php
+-rw-r--r--    1 a7179163   a7179163         5170 Jul 30 16:13 shell.php
+-rw-r--r--    1 a7179163   a7179163         8352 Jul 30 16:13 string.php
+-rw-r--r--    1 a7179163   a7179163         2210 Jul 30 16:13 xdiff.php

@@ -1,0 +1,10 @@
+drwxr-xr-x    2 a7179163   a7179163         4096 Jul 30 16:10 .
+drwxr-xr-x    9 a7179163   a7179163         4096 Jul 30 16:10 ..
+-rw-r--r--    1 a7179163   a7179163         3609 Jul 30 16:10 copy.php
+-rw-r--r--    1 a7179163   a7179163          477 Jul 30 16:10 debug.php
+-rw-r--r--    1 a7179163   a7179163          341 Jul 30 16:10 incompatible.php
+-rw-r--r--    1 a7179163   a7179163         1590 Jul 30 16:10 legacy.php
+-rw-r--r--    1 a7179163   a7179163         5667 Jul 30 16:10 notice.php
+-rw-r--r--    1 a7179163   a7179163         8864 Jul 30 16:10 options.php
+-rw-r--r--    1 a7179163   a7179163         2152 Jul 30 16:10 revisions.php
+-rw-r--r--    1 a7179163   a7179163         4493 Jul 30 16:10 styles.php

@@ -1,0 +1,10 @@
+drwxr-xr-x    2 a7179163   a7179163         4096 Jul 30 16:10 .
+drwxr-xr-x    9 a7179163   a7179163         4096 Jul 30 16:09 ..
+-rw-r--r--    1 a7179163   a7179163          275 Jul 30 16:09 about.php
+-rw-r--r--    1 a7179163   a7179163          841 Jul 30 16:09 admin.php
+-rw-r--r--    1 a7179163   a7179163          279 Jul 30 16:09 credits.php
+-rw-r--r--    1 a7179163   a7179163          281 Jul 30 16:10 freedoms.php
+-rw-r--r--    1 a7179163   a7179163          222 Jul 30 16:10 index.php
+-rw-r--r--    1 a7179163   a7179163          700 Jul 30 16:10 menu.php
+-rw-r--r--    1 a7179163   a7179163          223 Jul 30 16:10 profile.php
+-rw-r--r--    1 a7179163   a7179163          221 Jul 30 16:10 user-edit.php

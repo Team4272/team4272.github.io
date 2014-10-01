@@ -1,0 +1,8 @@
+drwxr-xr-x    2 a7179163   a7179163         4096 Jul 30 16:10 .
+drwxr-xr-x    4 a7179163   a7179163         4096 Jul 30 16:10 ..
+-rw-r--r--    1 a7179163   a7179163         8465 Jul 30 16:10 config.php
+-rw-r--r--    1 a7179163   a7179163          505 Jul 30 16:10 get.php
+-rw-r--r--    1 a7179163   a7179163         9950 Jul 30 16:10 notice.php
+-rw-r--r--    1 a7179163   a7179163         6521 Jul 30 16:10 start.php
+-rw-r--r--    1 a7179163   a7179163          551 Jul 30 16:10 stats.php
+-rw-r--r--    1 a7179163   a7179163          830 Jul 30 16:10 strict.php

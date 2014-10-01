@@ -1,0 +1,8 @@
+drwxr-xr-x    2 a7179163   a7179163         4096 Jul 30 16:10 .
+drwxr-xr-x    9 a7179163   a7179163         4096 Jul 30 16:10 ..
+-rw-r--r--    1 a7179163   a7179163         2195 Jul 30 16:10 back-compat.php
+-rw-r--r--    1 a7179163   a7179163         4446 Jul 30 16:10 custom-header.php
+-rw-r--r--    1 a7179163   a7179163         5223 Jul 30 16:10 customizer.php
+-rw-r--r--    1 a7179163   a7179163        15310 Jul 30 16:10 featured-content.php
+-rw-r--r--    1 a7179163   a7179163         6058 Jul 30 16:10 template-tags.php
+-rw-r--r--    1 a7179163   a7179163         9732 Jul 30 16:10 widgets.php
